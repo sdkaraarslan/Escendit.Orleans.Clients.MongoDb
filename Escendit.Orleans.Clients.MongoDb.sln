@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{128A784D-99E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{A607D0CF-DD92-4C33-880B-AE01531783BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escendit.Orleans.Clients.MongoDb.Client", "src\Client\Escendit.Orleans.Clients.MongoDb.Client.csproj", "{C71A6991-4636-471F-B6FC-475774EAD1D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escendit.Orleans.Clients.MongoDb", "src\Client\Escendit.Orleans.Clients.MongoDb.csproj", "{C71A6991-4636-471F-B6FC-475774EAD1D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
